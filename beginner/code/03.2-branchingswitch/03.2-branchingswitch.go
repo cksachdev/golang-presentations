@@ -1,5 +1,6 @@
 package main
-import ("fmt", "time")
+import ("fmt"
+)
 func main() {
     i := 2
     fmt.Print("write ", i, " as ")

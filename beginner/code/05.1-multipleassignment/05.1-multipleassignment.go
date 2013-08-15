@@ -14,7 +14,7 @@ func main() {
 	fmt.Println(s, p)
 
 	arr := []string{"Hello", "how", "are", "you?"}
-	for i, v := range arr 
+	for i, v := range arr {
 		fmt.Println(i, v)
 	}
 
